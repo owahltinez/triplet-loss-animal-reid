@@ -2,5 +2,4 @@
 Code used to implement the triplet-loss learning architecture.
 
 ## Data Availability
-* ASRU: https://figshare.com/s/7ee79b22ebd556221fa2
-* ANAU: https://figshare.com/s/9640c364acad66166a17
+The sea star image datasets are available to download at https://lila.science/sea-star-re-id-2023/.
