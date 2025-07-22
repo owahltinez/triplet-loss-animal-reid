@@ -7,9 +7,9 @@ Code used to implement the triplet-loss learning architecture as first presented
  3. (recommended) Create a new environment for your program.
 
         conda create -n reid
- 4. Use anaconda to install python 3.10 and pip
+ 4. Use anaconda to install python 3.11 and pip
 
-        conda install python==3.10 pip
+        conda install python==3.11 pip
 
  6. Download this project onto your computer.
  7. Navigate to that folder in the Anaconda prompt.
